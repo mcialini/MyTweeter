@@ -1,0 +1,116 @@
+// !$*UTF8*$!
+{
+	D2ABC17318C4E03100D3C763 /* MyTweeter */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MyTweeter;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	D2ABC18918C4E03500D3C763 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	D2ABC18A18C4E03500D3C763 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D2ABC19618C4E10E00D3C763 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = D2B3F9E918B7F148002E48CB /* HPAppDelegate.m */;
+	};
+	D2ABC19718C4E10E00D3C763 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D2B3F9E918B7F148002E48CB /* HPAppDelegate.m */;
+		name = "HPAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2561;
+		vrLoc = 0;
+	};
+	D2B3F9CE18B7F147002E48CB /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = D2ABC17318C4E03100D3C763 /* MyTweeter */;
+		activeTarget = D2B3F9D518B7F147002E48CB /* MyTweeter */;
+		codeSenseManager = D2ABC18A18C4E03500D3C763 /* Code sense */;
+		executables = (
+			D2ABC17318C4E03100D3C763 /* MyTweeter */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					791,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 415555635;
+			PBXWorkspaceStateSaveDate = 415555635;
+		};
+		perUserProjectItems = {
+			D2ABC19618C4E10E00D3C763 /* PBXBookmark */ = D2ABC19618C4E10E00D3C763 /* PBXBookmark */;
+			D2ABC19718C4E10E00D3C763 /* PBXTextBookmark */ = D2ABC19718C4E10E00D3C763 /* PBXTextBookmark */;
+		};
+		sourceControlManager = D2ABC18918C4E03500D3C763 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	D2B3F9D518B7F147002E48CB /* MyTweeter */ = {
+		activeExec = 0;
+		executables = (
+			D2ABC17318C4E03100D3C763 /* MyTweeter */,
+		);
+	};
+	D2B3F9E918B7F148002E48CB /* HPAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1979, 2132}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2571}";
+		};
+	};
+	D2B3F9F918B7F148002E48CB /* MyTweeterTests */ = {
+		activeExec = 0;
+	};
+}
